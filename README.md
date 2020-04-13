@@ -2,8 +2,6 @@
 
 > A WYSIWYG editor of inline mode. 
 
-Online [Demo](https://xushaocong.github.io/v-inline-editor/)
-
 ### Install
 
 ```js
